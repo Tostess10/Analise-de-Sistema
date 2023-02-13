@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
+body {
+  font-family: 'Pacifico';
+  font-size: 12pt Arial;
+
+  transform: translateY(1px);
+  position: relative;
+  transition: all 2.0ms ease-in;
+  width: 100%;
+  padding: 0px 450px 0px;
+
+}
+
+button {
+  padding: 30px;
+  cursor: pointer;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 5px;
+  background: orangered;
+  box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.8);
+  border-bottom: 3px solid red;
+  transform: none (1px);
+  position: relative;
+  transition: all 200ms ease;
+}
